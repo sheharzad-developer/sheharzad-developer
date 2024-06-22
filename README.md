@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheharzad Salahuddin</h1>
 <h3 align="center">A passionate frontend developer from Pakistan <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan Flag" width="20" height="13"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheharzad-developer&label=Profile%20views&color=0e75b6&style=flat" alt="sheharzad-developer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheharzad-developer" alt="sheharzad-developer" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://sheharzaddev.netlify.app/](https://sheharzaddev.netlify.app/)
 
