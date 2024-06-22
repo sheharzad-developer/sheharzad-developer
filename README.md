@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheharzad Salahuddin</h1>
-<h3 align="center">A passionate frontend developer from Pakistan ![Pakistan Flag](https://www.countryflags.io/PK/flat/32.png)</h3>
+<h3 align="center">A passionate frontend developer from Pakistan ![Uploading image.png…]()
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheharzad-developer&label=Profile%20views&color=0e75b6&style=flat" alt="sheharzad-developer" /> </p>
 
