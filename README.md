@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 🚀 VueJS Front-End Developer<br>🌟 About Me<br>•	Current Position: VueJS Front-End Developer at a technology firm in Lahore.<br>•	Key Achievements:<br>o	Enhanced user engagement and conversion rates.<br>o	Proficient in Vue.js, JavaScript, and Bootstrap.<br>💼 Experience<br>Front-End Developer at Netsol Technologies, Lahore<br>•	Utilized Vue.js, JavaScript, and Bootstrap to improve user interfaces.<br>•	Successfully boosted user engagement and conversion rates.<br>Intern at CodeNinja, INC<br>•	Developed secure digital payment systems.<br>•	Implemented efficient data storage solutions.<br>•	Worked with ReactJS, MongoDB, and PostgreSQL.<br>🛠️ Skills<br>Programming Languages<br>•	Javascript<br>•	ReactJS<br>•	VueJS<br>Frameworks & Libraries<br>•	Bootstrap<br>Databases<br>•	PostgreSQL<br>•	MongoDB<br>📚 Methodologies<br>•	Agile Methodologies<br>•	Problem-Solving Skills<br>•	Team Collaboration<br>•	Ethical Work Practices<br>📫 Contact Me<br>•	LinkedIn: https://www.linkedin.com/in/sheharzad-salahuddin/<br>•	GitHub: https://github.com/sheharzad-developer<br><br>
 
 
