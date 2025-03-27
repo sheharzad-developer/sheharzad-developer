@@ -18,7 +18,6 @@ I'm a passionate frontend developer with expertise in creating beautiful, respon
 
 **Backend Skills:**
 - Node.js, Express, MongoDB
-- PHP development experience
 
 **Tools & Processes:**
 - Version control with Git
