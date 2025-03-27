@@ -121,5 +121,5 @@ I believe in:
 <p align="center">
   <strong>Ready to bring your web project to life?</strong><br>
   <a href="https://www.linkedin.com/in/sheharzad-salahuddin-frontend-developer/" target="_blank">Contact me on LinkedIn</a> or 
-  <a href="mailto:your-email@example.com">Send me an email</a>
+  <a href="mailto:sheharzad.salahuddin9000@outlook.com">Send me an email</a>
 </p>
