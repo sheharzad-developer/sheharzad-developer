@@ -22,7 +22,7 @@ I'm a passionate frontend developer with expertise in creating beautiful, respon
 **Tools & Processes:**
 - Version control with Git
 - UI/UX design with Figma and Adobe XD
-- Testing with Jest
+
 
 <!--### 📊 My Stats
 
