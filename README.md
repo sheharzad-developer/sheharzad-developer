@@ -25,7 +25,7 @@ I'm a passionate frontend developer with expertise in creating beautiful, respon
 - UI/UX design with Figma and Adobe XD
 - Testing with Jest
 
-### 📊 My Stats
+<!--### 📊 My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheharzad-developer&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%">
@@ -35,6 +35,7 @@ I'm a passionate frontend developer with expertise in creating beautiful, respon
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheharzad-developer&" alt="GitHub Streak" width="90%">
 </p>
+-->
 
 ### 💼 My Approach
 
