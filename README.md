@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan Flag" width="20" height="13"> From Pakistan | 
-  <a href="https://sheharzaddev-v2.netlify.app/" target="_blank">View Portfolio</a> |
+  <a href="https://sheharzaddev-v2.vercel.app/" target="_blank">View Portfolio</a> |
   <a href="https://www.linkedin.com/in/sheharzad-salahuddin-frontend-developer/" target="_blank">Hire Me</a>
 </p>
 
