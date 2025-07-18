@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheharzad Salahuddin</h1>
-<h3 align="center">Frontend Developer | Specialist in Responsive Web Design & Interactive UI</h3>
+<h3 align="center">A Full-Stack Developer | Python Enthusiast | Building Scalable Web</h3>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan Flag" width="20" height="13"> From Pakistan | 
@@ -7,42 +7,43 @@
   <a href="https://www.linkedin.com/in/sheharzad-salahuddin-frontend-developer/" target="_blank">Hire Me</a>
 </p>
 
-I'm a passionate frontend developer with expertise in creating beautiful, responsive web applications. I combine design sensibility with technical skills to build interfaces that users love.
+I'm a passionate **full-stack developer** with expertise in **frontend, backend, and Python development**. I create **beautiful, responsive, and scalable web applications** while combining design sensibility with technical skills to build interfaces that users love.
+
+---
 
 ### 🚀 My Expertise
 
 **Frontend Development:**
-- Building responsive, mobile-first websites with HTML5, CSS3, and JavaScript
-- Modern frameworks: React, Vue.js, Next.js
-- UI/UX implementation with Bootstrap, Materialize, and Tailwind CSS
+- Responsive, mobile-first websites with **HTML5, CSS3, and JavaScript**
+- Modern frameworks: **React, Vue.js**
+- UI/UX implementation with **Bootstrap, Tailwind CSS, Material UI**
 
-**Backend Skills:**
-- Node.js, Express, MongoDB
+**Backend & Databases:**
+- **Node.js, Django (basic)**
+- **MongoDB, PostgreSQL, Firebase**
+
+**Python & Data:**
+- **Python (Flask, Django basics)**
+- Data analysis with **pandas, NumPy**
+- Machine learning experiments with **scikit-learn, TensorFlow (beginner)**
 
 **Tools & Processes:**
-- Version control with Git
-- UI/UX design with Figma and Adobe XD
+- Version control with **Git & GitHub**
+- UI/UX design with **Figma and Adobe XD**
+- Deployment: **Vercel, Render, Railway**
 
-
-<!--### 📊 My Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheharzad-developer&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheharzad-developer&show_icons=true&locale=en" alt="GitHub Stats" width="45%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheharzad-developer&" alt="GitHub Streak" width="90%">
-</p>
--->
+---
 
 ### 💼 My Approach
 
 I believe in:
-- Clean, maintainable code that stands the test of time
-- Pixel-perfect implementations of designs
-- Performance-optimized solutions
-- Continuous learning and adapting to new technologies
+- **Clean, maintainable code** that stands the test of time  
+- **Pixel-perfect UI** and user-first experience  
+- **Performance-optimized, scalable solutions**  
+- **Continuous learning** and adapting to modern tech stacks  
+- **Exploring Machine Learning basics** to integrate smart, data-driven features  
+
+---
 
 ### 🤝 Let's Connect
 
@@ -61,6 +62,8 @@ I believe in:
   </a>
 </p>
 
+---
+
 ### 🛠 Languages & Tools
 
 #### **Frontend Development**
@@ -77,12 +80,6 @@ I believe in:
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="50" height="50" title="NextJS"/>
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="NuxtJS" width="50" height="50" title="NuxtJS"/>
-  </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50" title="VueJS"/>
   </a>
@@ -92,9 +89,6 @@ I believe in:
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" title="Express.js"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/>
@@ -112,13 +106,22 @@ I believe in:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" title="Python"/>
   </a>
 </p>
 
+---
+
+### 📊 Data Science & AI (Learning Path)
+- **Data Analysis**: pandas, NumPy, matplotlib, seaborn  
+- **Machine Learning**: scikit-learn (beginner models)  
+- **Exploring AI**: Computer Vision, NLP basics  
+
+---
+
 <p align="center">
-  <strong>Ready to bring your web project to life?</strong><br>
+  <strong>Ready to bring your web or AI project to life?</strong><br>
   <a href="https://www.linkedin.com/in/sheharzad-salahuddin-frontend-developer/" target="_blank">Contact me on LinkedIn</a> or 
   <a href="mailto:sheharzad.salahuddin9000@outlook.com">Send me an email</a>
 </p>
