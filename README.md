@@ -45,14 +45,6 @@ I believe in:
 
 ---
 
-### 📈 GitHub Contribution Breakdown
-
-<img src="assets/contributions.png" width="300" alt="GitHub Contribution Breakdown">
-
-<!-- Make sure you upload the image file to your GitHub repo inside a folder named 'assets' -->
-
----
-
 ### 🤝 Let's Connect
 
 <p align="left">
