@@ -90,6 +90,8 @@ continuously exploring new possibilities with Python and AI.
 <h3>DevOps & Tools</h3>
 
 <ul>
+  <li>Docker</li>
+  <li>Kubernetes <em>(learning)</em></li>
   <li>Git</li>
   <li>GitHub</li>
   <li>GitHub Actions (CI/CD)</li>
