@@ -20,21 +20,24 @@ Front-End Engineer • AI Application Developer • Python Developer
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I'm a <strong>Front-End Engineer at NETSOL Technologies</strong> building
-production web applications using modern JavaScript frameworks.
+I'm a <strong>Full-Stack Engineer at NETSOL Technologies</strong> building
+production-ready web applications using modern JavaScript frameworks,
+Python, and cloud-native technologies.
 </p>
 
 <p>
 After nearly a decade in Design & Marketing, I transitioned into software
-engineering in 2024 and am now expanding into
+engineering in 2024 and have since expanded into
 <strong>AI application development</strong>, focusing on
-<strong>LLM-powered apps, Retrieval-Augmented Generation (RAG),
-and agent workflows</strong>.
+<strong>LLM-powered applications, Retrieval-Augmented Generation (RAG),
+agent workflows, and intelligent automation</strong>.
 </p>
 
 <p>
-I enjoy creating fast, scalable applications with clean architecture while
-continuously exploring new possibilities with Python and AI.
+I enjoy building fast, scalable, end-to-end applications with clean
+architecture, leveraging modern frontend and backend technologies,
+Docker, Kubernetes, and AI to deliver reliable, production-quality
+software.
 </p>
 
 <hr>
