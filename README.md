@@ -119,6 +119,8 @@ Property-management platform unifying **maintenance requests, residents, and uni
 
 | Project | Domain | Stack | Links |
 |---|---|---|---|
+| 🚗 **RideShare — Mobility App** — real-time driver matching & live tracking | Real-Time Full-Stack · 2025 | React Native, FastAPI, PostGIS, Redis, WebSockets | *Available on request* |
+| 🗣️ **Bilingual AI Study Companion** — EN/UR tutor grounded in linguistics research | AI / Education · 2025 | React Native, Node.js, Claude API | *Available on request* |
 | 🍽️ **Daggys Cafe** — menu with live macro tracking | Full-Stack · 2025 | Next.js, TypeScript, Supabase | [Live](https://daggys-cafe.vercel.app/) · [Code](https://github.com/sheharzad-developer/daggys-cafe) |
 | 📄 **ChatSmart AI** — document Q&A that cites its sources | AI/ML · 2024 | Python, Streamlit, LangChain | [Code](https://github.com/sheharzad-developer/chatsmart-ai) |
 | 💰 **FinPay** — crypto wallet with live market data | FinTech · 2025 | React, React Router, Tailwind | [Live](https://fin-pay-crypto.vercel.app/) |
@@ -155,6 +157,7 @@ Property-management platform unifying **maintenance requests, residents, and uni
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-E63946?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
@@ -163,6 +166,7 @@ Property-management platform unifying **maintenance requests, residents, and uni
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### DevOps & Collaboration
