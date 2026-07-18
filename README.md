@@ -1,38 +1,40 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:8338EC,100:3A86FF&height=200&section=header&text=Sheharzad%20Salahuddin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Application%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:8338EC,100:3A86FF&height=200&section=header&text=Sheharzad%20Salahuddin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%E2%80%A2%20Full-Stack%20%2B%20AI&descSize=20&descAlignY=58" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sheharzad+Salahuddin;AI+Application+Engineer;Full-Stack+Developer+%7C+React+%C2%B7+Python;Building+LLM-Powered+Products" alt="Typing SVG" />
-
-<h3>AI Application Engineer • Full-Stack Developer • RAG & Agent Systems</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Front-End+Developer+%40+NETSOL+Technologies;Self-Taught+Full-Stack+%2B+AI+Engineer;15%2B+Projects+Shipped+%E2%80%A2+Several+Live+in+Production;React+%C2%B7+Vue+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+LangChain" alt="Typing SVG" />
 
 <p>
   🇵🇰 Lahore, Pakistan &nbsp;•&nbsp;
   <a href="https://sheharzad-portfolio.vercel.app/" target="_blank"><b>Portfolio</b></a> &nbsp;•&nbsp;
+  <a href="https://sheharzad-portfolio.vercel.app/resume/Sheharzad-Resume.pdf" target="_blank"><b>Resume</b></a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/sheharzad-salahuddin-frontend-developer/" target="_blank"><b>LinkedIn</b></a> &nbsp;•&nbsp;
-  <a href="https://stackoverflow.com/users/7394383/sheharzad-salahuddin" target="_blank"><b>Stack Overflow</b></a>
+  <a href="https://leetcode.com/u/sheharzad-developer/" target="_blank"><b>LeetCode</b></a>
 </p>
 
+<img src="https://img.shields.io/badge/At_NETSOL-since_2015-E63946?style=flat-square" />
+<img src="https://img.shields.io/badge/BCS-2026-8338EC?style=flat-square" />
+<img src="https://img.shields.io/badge/Projects_Built-15%2B-3A86FF?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=sheharzad-developer&color=e63946&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" />
 
-I build **production-grade AI applications** — end to end. From streaming LLM interfaces and Retrieval-Augmented Generation pipelines to multi-agent backends with tenant isolation, I ship software that runs in the real world, not just in demos.
+I'm a **Front-End Developer at NETSOL Technologies**, where I've worked since 2015 — I joined through a disability-inclusion program as someone who is hard of hearing. I started in design and marketing, **taught myself to code**, and grew into a Software Engineer role building responsive apps with React, Vue, and Nuxt. I completed my Computer Science degree in 2026 while working full-time, and I've shipped **15+ personal projects** across full-stack and AI — several live in production.
 
-- 🧠 **AI Engineering** — LLM API integration, RAG systems, LangChain, agent workflows, prompt architecture
-- ⚡ **Full-Stack Development** — React/Next.js and Vue/Nuxt frontends backed by FastAPI, Node.js, and PostgreSQL
-- ☁️ **Production Mindset** — Docker, CI/CD with GitHub Actions, cloud deployment, clean architecture
-- 🌍 **Multilingual Products** — Built platforms with Arabic RTL support and bilingual (English/Urdu) AI experiences
+**Selected impact at NETSOL:**
+- 📈 Vue.js features that increased user engagement **~20%** and conversions **~15%**
+- ⚡ GitHub Actions CI/CD pipeline that cut deployment time **~20%**
+- 🎨 Ship responsive apps end-to-end, from Figma handoff through deployment
 
-Currently a **Full-Stack Engineer at NETSOL Technologies**, where I develop enterprise web applications and AI-powered features for global clients. My unusual path — nearly a decade in design & marketing before engineering — means I build products that are technically sound *and* genuinely usable.
+**Beyond the day job**, I build with LLMs — Gemini, Groq, LangChain, and RAG pipelines — integrated into real products across AI, FinTech, and healthcare.
 
-> 💡 *Bonus: I'm a published researcher on AI-assisted language learning, bridging applied linguistics and machine learning.*
+> *I believe great software should feel invisible — fast, intuitive, and reliable.*
 
 <br clear="right"/>
 
@@ -40,35 +42,38 @@ Currently a **Full-Stack Engineer at NETSOL Technologies**, where I develop ente
 
 ## 💼 Featured Projects
 
-<!-- 📸 TIP: Replace the placeholder image paths below with real screenshots.
-     Create an /assets folder in this repo and drop your screenshots there:
-     ./assets/ai-chatbot.png, ./assets/auraai.png, etc.
-     A README with real product screenshots converts recruiters 10x better than badges. -->
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Chatbot Platform
-*Multi-Agent RAG System*
+### 🌿 AuraAI — AI Wellness Companion
+`AI / Healthcare · 2026 · 🟢 LIVE`
 
-<img src="./assets/ai-chatbot.png" alt="AI Chatbot Platform screenshot" width="100%" />
+<a href="https://ai-mental-health-chat-app.vercel.app/" target="_blank">
+<img src="https://sheharzad-portfolio.vercel.app/images/projects/AI-Mental-Health.png" alt="AuraAI screenshot" width="100%" />
+</a>
 
-> **FastAPI · LangChain · PostgreSQL · Docker**
+> **Next.js 16 · React 19 · TypeScript · Google Gemini**
 
-Enterprise-grade chatbot platform featuring **multi-agent orchestration, tool calling, tenant isolation, and document-based RAG**. Clean separation between agents, retrieval, and API layers.
+A mental-wellness chat app that feels calm and human — streaming AI replies that adapt to the moment, with auth, subscriptions, and conversation history.
+
+**[🔗 Live Demo](https://ai-mental-health-chat-app.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🌿 AuraAI — AI Wellness Companion
-*Streaming LLM Product*
+### 🤖 AI Chatbot Platform
+`AI / Machine Learning · 2025`
 
-<img src="./assets/auraai.png" alt="AuraAI screenshot" width="100%" />
+<a href="https://github.com/sheharzad-developer/Chatbot_Internship" target="_blank">
+<img src="https://sheharzad-portfolio.vercel.app/images/projects/chatbot2025.png" alt="AI Chatbot Platform screenshot" width="100%" />
+</a>
 
-> **Next.js · Google Gemini · Streaming · Stripe**
+> **FastAPI · Python · LangChain**
 
-Streaming wellness assistant with **real-time token streaming, authentication, subscription billing, and persistent conversation history**. Low-latency, production-quality conversational UX.
+Multi-provider LLM platform with **document-based RAG, tool calling, and tenant isolation** — one clean architecture instead of scattered one-off integrations.
+
+**[💻 Source Code](https://github.com/sheharzad-developer/Chatbot_Internship)**
 
 </td>
 </tr>
@@ -76,46 +81,58 @@ Streaming wellness assistant with **real-time token streaming, authentication, s
 <td width="50%" valign="top">
 
 ### 🥇 Live Gold & Silver Prices
-*Multi-Market Financial Platform*
+`FinTech · 2026 · 🟢 LIVE`
 
-<img src="./assets/gold-prices.png" alt="Gold prices platform screenshot" width="100%" />
+<a href="https://www.thegoldprice.gold/" target="_blank">
+<img src="https://sheharzad-portfolio.vercel.app/images/projects/Gold-%26-Silver.png" alt="Gold and Silver prices platform screenshot" width="100%" />
+</a>
 
-> **Next.js · ISR · i18n · Arabic RTL**
+> **Next.js 16 · React 19 · TypeScript**
 
-Production platform serving **six international markets** with live pricing, server-side revalidation, and full **Arabic RTL localization**.
+Production platform serving **six Gulf and South-Asian markets** with live precious-metal prices, local currencies, **Arabic RTL support**, and server-side revalidation.
+
+**[🔗 thegoldprice.gold](https://www.thegoldprice.gold/)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 RideShare — Mobility App
-*Real-Time Full-Stack System*
+### 🏢 Eden Avenue Management
+`Full-Stack · 2025 · 🟢 LIVE`
 
-<img src="./assets/rideshare.png" alt="RideShare app screenshot" width="100%" />
+<a href="https://edenavenue.vercel.app/" target="_blank">
+<img src="https://sheharzad-portfolio.vercel.app/images/projects/EdenAvenue.png" alt="Eden Avenue Management screenshot" width="100%" />
+</a>
 
-> **React Native · FastAPI · PostGIS · Redis · WebSockets**
+> **Next.js (App Router) · TypeScript · Prisma**
 
-Ride-hailing app with **real-time driver matching over WebSockets, geospatial queries with PostGIS, Stripe payments**, and Redis caching.
+Property-management platform unifying **maintenance requests, residents, and units** into one shared dashboard — replacing disconnected tools.
+
+**[🔗 Live](https://edenavenue.vercel.app/)** · **[💻 Code](https://github.com/sheharzad-developer/edenavenue)**
 
 </td>
 </tr>
 </table>
 
-### 🗣️ Bilingual AI Study Companion
-> **React Native · Node.js · Claude API**
+<details>
+<summary><b>📁 More Case Files — click to expand</b></summary>
+<br>
 
-AI tutor that responds fluidly in **English and Urdu**, grounded in my applied-linguistics research on AI-assisted language learning.
+| Project | Domain | Stack | Links |
+|---|---|---|---|
+| 🍽️ **Daggys Cafe** — menu with live macro tracking | Full-Stack · 2025 | Next.js, TypeScript, Supabase | [Live](https://daggys-cafe.vercel.app/) · [Code](https://github.com/sheharzad-developer/daggys-cafe) |
+| 📄 **ChatSmart AI** — document Q&A that cites its sources | AI/ML · 2024 | Python, Streamlit, LangChain | [Code](https://github.com/sheharzad-developer/chatsmart-ai) |
+| 💰 **FinPay** — crypto wallet with live market data | FinTech · 2025 | React, React Router, Tailwind | [Live](https://fin-pay-crypto.vercel.app/) |
+| 🦷 **Dental Syndicate** — clinic booking with instant confirmation | Healthcare · 2025 | Flask, JavaScript, Glassmorphism CSS | [Live](https://dental-syndicate.vercel.app/) · [Code](https://github.com/sheharzad-developer/dental-syndicate) |
+| 🏠 **Apartment Design Tool** — 3D layouts in the browser | Design Tools · 2024 | React, Three.js, WebGL | [Live](https://apartment-planner-eta.vercel.app/) · [Code](https://github.com/sheharzad-developer/Apartment-Planner) |
+| 🏫 **LSLS School Management** — students, attendance & results | Full-Stack · 2025 | Next.js, TypeScript, Prisma | [Live](https://lslsmanagementsystemschool.netlify.app/) |
+| 🏦 **NETSOL Technologies — Web** — corporate site frontend | Corporate · 2024 | Nuxt.js, Vue, JavaScript | [Live](https://netsoltech.com/) |
+| 🏨 **Hotel Management & Tourism** — bookings, payments & tour guides | MERN · 2023 | MongoDB, Express, React, Node | [Code](https://github.com/sheharzad-developer/CodeNinja-Project) |
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🛠️ Tech Stack
-
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -124,38 +141,52 @@ AI tutor that responds fluidly in **English and Urdu**, grounded in my applied-l
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-### Backend & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### AI & LLMs
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-E63946?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+
+### Databases & Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-### DevOps & Tools
+### DevOps & Collaboration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-6DB33F?style=for-the-badge)
 
 ---
 
-## 🌱 Currently Deepening
+## 📜 Certifications
 
-```text
-├── Advanced Machine Learning & scikit-learn
-├── Natural Language Processing
-├── Computer Vision
-├── AI Agents & Multi-Agent Systems
-└── Kubernetes & Cloud-Native Architecture
-```
+- 🎓 **Namaste DSA** — NamasteDev.com · 2026
+- 🎓 **Namaste JavaScript** — NamasteDev.com · 2024
+- 🎓 **Python Programming Fundamentals** — Microsoft (via Coursera) · 2023
+- 🎓 **Front-End Web Development with React** — HKUST (via Coursera) · 2021
+- 🎓 **Server-side Development with NodeJS, Express & MongoDB** — HKUST (via Coursera) · 2021
+- 🎓 **Front-End Web UI Frameworks & Tools: Bootstrap 4** — HKUST (via Coursera) · 2021
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheharzad-developer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -172,13 +203,26 @@ AI tutor that responds fluidly in **English and Urdu**, grounded in my applied-l
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Something Amazing
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sheharzad-portfolio.vercel.app/)
+*Ready to turn your ideas into reality? Let's chat about your project!*
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sheharzad.salahuddin9000@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923160144176)
+[![Book a Call](https://img.shields.io/badge/Book_a_Coffee_Chat_☕-E63946?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/sheharzad-salahuddin9000/new-meeting)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8338EC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sheharzad-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheharzad-salahuddin-frontend-developer/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheharzad-developer)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01264a0282005eca30)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/sheharzad_1/)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sheharzad_sala1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTYt7upl1YwBwdxGb8lmQwg)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sheharzad-developer/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7394383/sheharzad-salahuddin)
 
 <br>
