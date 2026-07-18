@@ -1,174 +1,190 @@
-<h1 align="center">Hi 👋, I'm Sheharzad Salahuddin</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:8338EC,100:3A86FF&height=200&section=header&text=Sheharzad%20Salahuddin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Application%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=58" width="100%" />
 
-<h3 align="center">
-Full-Stack Engineer • AI Application Developer • DevOps Enthusiast
-</h3>
+<div align="center">
 
-<p align="center">
-  🇵🇰 Pakistan •
-  <a href="https://sheharzad-portfolio.vercel.app/" target="_blank">
-    Portfolio
-  </a>
-  •
-  <a href="https://www.linkedin.com/in/sheharzad-salahuddin-frontend-developer/" target="_blank">
-    LinkedIn
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sheharzad+Salahuddin;AI+Application+Engineer;Full-Stack+Developer+%7C+React+%C2%B7+Python;Building+LLM-Powered+Products" alt="Typing SVG" />
 
-<hr>
-
-<h2>👨‍💻 About Me</h2>
+<h3>AI Application Engineer • Full-Stack Developer • RAG & Agent Systems</h3>
 
 <p>
-I'm a <strong>Full-Stack Engineer at NETSOL Technologies</strong> building
-production-ready web applications using modern JavaScript frameworks,
-Python, and cloud-native technologies.
+  🇵🇰 Lahore, Pakistan &nbsp;•&nbsp;
+  <a href="https://sheharzad-portfolio.vercel.app/" target="_blank"><b>Portfolio</b></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/sheharzad-salahuddin-frontend-developer/" target="_blank"><b>LinkedIn</b></a> &nbsp;•&nbsp;
+  <a href="https://stackoverflow.com/users/7394383/sheharzad-salahuddin" target="_blank"><b>Stack Overflow</b></a>
 </p>
 
-<p>
-After nearly a decade in Design & Marketing, I transitioned into software
-engineering in 2024 and have since expanded into
-<strong>AI application development</strong>, focusing on
-<strong>LLM-powered applications, Retrieval-Augmented Generation (RAG),
-agent workflows, and intelligent automation</strong>.
-</p>
+<img src="https://komarev.com/ghpvc/?username=sheharzad-developer&color=e63946&style=flat-square&label=Profile+Views" alt="Profile views" />
 
-<p>
-I enjoy building fast, scalable, end-to-end applications with clean
-architecture, leveraging modern frontend and backend technologies,
-Docker, Kubernetes, and AI to deliver reliable, production-quality
-software.
-</p>
+</div>
 
-<hr>
+---
 
-<h2>🚀 Technical Skills</h2>
+## 🚀 What I Do
 
-<h3>Frontend</h3>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" />
 
-<ul>
-  <li>React</li>
-  <li>Next.js</li>
-  <li>Vue.js</li>
-  <li>Nuxt</li>
-  <li>TypeScript</li>
-  <li>JavaScript (ES6+)</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Tailwind CSS</li>
-  <li>Bootstrap</li>
-  <li>Material UI</li>
-</ul>
+I build **production-grade AI applications** — end to end. From streaming LLM interfaces and Retrieval-Augmented Generation pipelines to multi-agent backends with tenant isolation, I ship software that runs in the real world, not just in demos.
 
-<h3>Backend</h3>
+- 🧠 **AI Engineering** — LLM API integration, RAG systems, LangChain, agent workflows, prompt architecture
+- ⚡ **Full-Stack Development** — React/Next.js and Vue/Nuxt frontends backed by FastAPI, Node.js, and PostgreSQL
+- ☁️ **Production Mindset** — Docker, CI/CD with GitHub Actions, cloud deployment, clean architecture
+- 🌍 **Multilingual Products** — Built platforms with Arabic RTL support and bilingual (English/Urdu) AI experiences
 
-<ul>
-  <li>Node.js</li>
-  <li>Python</li>
-  <li>FastAPI</li>
-  <li>Flask</li>
-</ul>
+Currently a **Full-Stack Engineer at NETSOL Technologies**, where I develop enterprise web applications and AI-powered features for global clients. My unusual path — nearly a decade in design & marketing before engineering — means I build products that are technically sound *and* genuinely usable.
 
-<h3>AI & Python</h3>
+> 💡 *Bonus: I'm a published researcher on AI-assisted language learning, bridging applied linguistics and machine learning.*
 
-<ul>
-  <li>Python</li>
-  <li>LLM API Integration</li>
-  <li>RAG Systems</li>
-  <li>LangChain</li>
-  <li>Agent Workflows</li>
-  <li>pandas</li>
-  <li>NumPy</li>
-  <li>scikit-learn <em>(learning)</em></li>
-</ul>
+<br clear="right"/>
 
-<h3>Databases</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<ul>
-  <li>PostgreSQL</li>
-  <li>MongoDB</li>
-  <li>Firebase</li>
-</ul>
+## 💼 Featured Projects
 
-<h3>DevOps & Tools</h3>
+<!-- 📸 TIP: Replace the placeholder image paths below with real screenshots.
+     Create an /assets folder in this repo and drop your screenshots there:
+     ./assets/ai-chatbot.png, ./assets/auraai.png, etc.
+     A README with real product screenshots converts recruiters 10x better than badges. -->
 
-<ul>
-  <li>Docker</li>
-  <li>Kubernetes <em>(learning)</em></li>
-  <li>Git</li>
-  <li>GitHub</li>
-  <li>GitHub Actions (CI/CD)</li>
-  <li>Vercel</li>
-  <li>Railway</li>
-  <li>Render</li>
-  <li>Figma</li>
-  <li>JIRA</li>
-  <li>Agile/Scrum</li>
-</ul>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<hr>
+### 🤖 AI Chatbot Platform
+*Multi-Agent RAG System*
 
-<h2>🌱 Currently Learning</h2>
+<img src="./assets/ai-chatbot.png" alt="AI Chatbot Platform screenshot" width="100%" />
 
-<ul>
-  <li>Advanced Machine Learning</li>
-  <li>Computer Vision</li>
-  <li>Natural Language Processing</li>
-  <li>AI Agents and Multi-Agent Systems</li>
-</ul>
+> **FastAPI · LangChain · PostgreSQL · Docker**
 
-<hr>
+Enterprise-grade chatbot platform featuring **multi-agent orchestration, tool calling, tenant isolation, and document-based RAG**. Clean separation between agents, retrieval, and API layers.
 
-<h2>💼 Featured Projects</h2>
+</td>
+<td width="50%" valign="top">
 
-<h3>AuraAI – AI Wellness Companion</h3>
+### 🌿 AuraAI — AI Wellness Companion
+*Streaming LLM Product*
 
-<p>
-Streaming wellness assistant powered by Google Gemini with authentication,
-subscriptions, and conversation history.
-</p>
+<img src="./assets/auraai.png" alt="AuraAI screenshot" width="100%" />
 
-<h3>AI Chatbot Platform</h3>
+> **Next.js · Google Gemini · Streaming · Stripe**
 
-<p>
-Multi-agent chatbot platform built with FastAPI featuring tool calling,
-tenant isolation, and a document-based RAG system.
-</p>
+Streaming wellness assistant with **real-time token streaming, authentication, subscription billing, and persistent conversation history**. Low-latency, production-quality conversational UX.
 
-<h3>Live Gold & Silver Prices</h3>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-Production platform serving six markets with Arabic RTL support and
-server-side revalidation.
-</p>
+### 🥇 Live Gold & Silver Prices
+*Multi-Market Financial Platform*
 
-<hr>
+<img src="./assets/gold-prices.png" alt="Gold prices platform screenshot" width="100%" />
 
-<h2>🤝 Connect With Me</h2>
+> **Next.js · ISR · i18n · Arabic RTL**
 
-<p>
-<a href="https://sheharzad-portfolio.vercel.app/" target="_blank">
-Portfolio
-</a>
+Production platform serving **six international markets** with live pricing, server-side revalidation, and full **Arabic RTL localization**.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 RideShare — Mobility App
+*Real-Time Full-Stack System*
+
+<img src="./assets/rideshare.png" alt="RideShare app screenshot" width="100%" />
+
+> **React Native · FastAPI · PostGIS · Redis · WebSockets**
+
+Ride-hailing app with **real-time driver matching over WebSockets, geospatial queries with PostGIS, Stripe payments**, and Redis caching.
+
+</td>
+</tr>
+</table>
+
+### 🗣️ Bilingual AI Study Companion
+> **React Native · Node.js · Claude API**
+
+AI tutor that responds fluidly in **English and Urdu**, grounded in my applied-linguistics research on AI-assisted language learning.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🛠️ Tech Stack
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🌱 Currently Deepening
+
+```text
+├── Advanced Machine Learning & scikit-learn
+├── Natural Language Processing
+├── Computer Vision
+├── AI Agents & Multi-Agent Systems
+└── Kubernetes & Cloud-Native Architecture
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheharzad-developer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharzad-developer&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheharzad-developer&theme=radical&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sheharzad-developer/sheharzad-developer/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sheharzad-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheharzad-salahuddin-frontend-developer/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheharzad-developer)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7394383/sheharzad-salahuddin)
+
 <br>
 
-<a href="https://www.linkedin.com/in/sheharzad-salahuddin-frontend-developer/" target="_blank">
-LinkedIn
-</a>
-<br>
+***"Building products today while learning the technologies shaping tomorrow."***
 
-<a href="https://github.com/sheharzad-developer" target="_blank">
-GitHub
-</a>
-<br>
+</div>
 
-<a href="https://stackoverflow.com/users/7394383/sheharzad-salahuddin" target="_blank">
-Stack Overflow
-</a>
-</p>
-
-<hr>
-
-<p align="center">
-<i>"Building products today while learning the technologies shaping tomorrow."</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A86FF,50:8338EC,100:E63946&height=120&section=footer" width="100%" />
