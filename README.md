@@ -200,14 +200,14 @@ Property-management platform unifying **maintenance requests, residents, and uni
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheharzad-developer&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharzad-developer&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=sheharzad-developer&theme=radical&hide_border=true" alt="GitHub streak" />
-</div>
+</div> -->
 
 <!-- 🐍 CONTRIBUTION SNAKE — uncomment AFTER adding snake.yml to .github/workflows/
      and running it once from the Actions tab (it creates the 'output' branch this image needs):
