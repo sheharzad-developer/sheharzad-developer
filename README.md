@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheharzad Salahuddin</h1>
 
 <h3 align="center">
-Front-End Engineer • AI Application Developer • Python Developer
+Full-Stack Engineer • AI Application Developer • DevOps Enthusiast
 </h3>
 
 <p align="center">
