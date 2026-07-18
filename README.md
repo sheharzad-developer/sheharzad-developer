@@ -189,17 +189,29 @@ Property-management platform unifying **maintenance requests, residents, and uni
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheharzad-developer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharzad-developer&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/sheharzad-developer">
+    <img src="https://ghchart.rshah.org/e63946/sheharzad-developer" alt="GitHub contribution graph" width="100%" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheharzad-developer&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharzad-developer&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheharzad-developer&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=sheharzad-developer&theme=radical&hide_border=true" alt="GitHub streak" />
 </div>
+
+<!-- 🐍 CONTRIBUTION SNAKE — uncomment AFTER adding snake.yml to .github/workflows/
+     and running it once from the Actions tab (it creates the 'output' branch this image needs):
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sheharzad-developer/sheharzad-developer/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
+-->
 
 ---
 
